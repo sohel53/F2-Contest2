@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(35, 32, 32);
+}
+#heading {
+    color: white;
+}
+#addbtn {
+    color: black;
+    background-color: white;
+}
+#input-name {
+    color: black;
+    height: 20px;
+    width: 300px;
+}
+#input-profession {
+    color: black;
+    height: 20px;
+    width: 300px;
+}
+#input-age {
+    color: black;
+    height: 20px;
+    width: 300px;
+}
+#name-label {
+    color: white;
+}
+#prof-label {
+    color: white;
+}
+#age-label {
+    color: white;
+}
+#addmsg {
+    color: white;
+}
+#list-main {
+    color:white; 
+}
+#countmsg {
+    color: white;
+}
